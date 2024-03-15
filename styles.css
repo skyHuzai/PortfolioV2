@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    overflow-x: none;
+}
+
+body{
+    font-family: Poppins, sans-serif;
+}
+
+#partOne{
+    display: flex;
+    background-color: #FED9CF;
+    height: 100vh; /* 100% de la hauteur de la fenêtre */
+    text-align: center;
+    padding-top: 50vh; /* Centre le contenu verticalement */
+}
+
+
+
+#partTwo{
+    display: flex;
+    background: linear-gradient(180deg, #050320 0%, #1E1954 100%);
+    height: 100vh; /* 100% de la hauteur de la fenêtre */
+    text-align: center;
+    padding-top: 50vh; /* Centre le contenu verticalement */
+}
